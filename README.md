@@ -29,8 +29,8 @@ In this game, players are detectives trying to figure out who among them is "The
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Game+Menu+Screenshot" alt="Menu" width="45%">
-  <img src="https://placehold.co/600x300/1a1a1a/FFF?text=Gameplay+Screenshot" alt="Gameplay" width="45%">
+  <img src="https://github.com/Ahmad-Mobarak/Bara-El-Salfa/blob/41e3ea266af76902c1c3f7adc83bf691626023b4/Game%20menu.png" alt="Menu" width="45%">
+  <img src="https://github.com/Ahmad-Mobarak/Bara-El-Salfa/blob/41e3ea266af76902c1c3f7adc83bf691626023b4/Game%20play.png" alt="Gameplay" width="45%">
 </div>
 
 ---
